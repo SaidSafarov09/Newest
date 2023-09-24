@@ -1,4 +1,3 @@
-import './App.css';
 import Newest from './Components/Newest/Newest';
 
 function App() {
